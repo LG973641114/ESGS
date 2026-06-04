@@ -11,8 +11,7 @@ The original remote sensing images of the Martian surface in this dataset are fr
 ## 3.Download
 
 通过网盘分享的文件：Mars_3D
-链接: https://pan.baidu.com/s/1rFdayVgAy-WYJVKOmTqk2A?pwd=4ihq 提取码: 4ihq 
---来自百度网盘超级会员v9的分享
+链接: 
 
 ## 4.Paper
 
